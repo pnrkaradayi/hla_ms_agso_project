@@ -41,10 +41,6 @@ pip install -r requirements.txt
 
 Place your Excel file in the project folder or pass its path directly.
 
-```bash
-python main.py --excel_path "Allels_Combined.xlsx"
-```
-
 Outputs will be saved in:
 
 ```text
